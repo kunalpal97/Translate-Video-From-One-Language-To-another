@@ -1,0 +1,4 @@
+14
+00:07:20--->00:07:44
+You can publish the Google script and deploy it as a web app with parameters for source and target languages and the text query. You can specify any ISO language pair or say “auto” and the Google Translation API will auto detect the language of the source text
+
